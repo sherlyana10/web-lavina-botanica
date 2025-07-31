@@ -1,0 +1,64 @@
+<section class="py-5" style="background-color: white; position: relative; overflow: hidden;">
+  <!-- Gelombang atas -->
+  <div style="position: absolute; top: 0; left: 0; width: 100%; z-index: 0;">
+    <svg viewBox="0 0 1440 150" xmlns="http://www.w3.org/2000/svg">
+      <path fill="#d7dbc9" fill-opacity="1" d="M0,64L60,74.7C120,85,240,107,360,122.7C480,139,600,149,720,138.7C840,128,960,96,1080,85.3C1200,75,1320,85,1380,90.7L1440,96L1440,0L0,0Z"></path>
+    </svg>
+  </div>
+
+  <div class="container position-relative" style="z-index: 1;">
+    <div class="row align-items-center">
+      <div class="col-md-6 text-center" data-aos="fade-right">
+        <img src="mousturizer_putih-removebg-preview.png" alt="Brightening Moisturizer" class="img-fluid floating" style="max-width: 300px;" />
+      </div>
+      <div class="col-md-6" data-aos="fade-left">
+        <h2 class="fw-bold" style="color: #6d8c6f;">Brightening Moisturizer</h2>
+        <p class="fw-bold" style="color: black;">Membantu mencerahkan kulit dengan kandungan Niacinamide dan Vitamin C. Kulit tampak lebih cerah, lembut, dan sehat alami.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="py-5" style="background-color: white; position: relative; overflow: hidden;">
+  <!-- Gelombang atas -->
+  <div style="position: absolute; top: 0; left: 0; width: 100%; z-index: 0;">
+    <svg viewBox="0 0 1440 150" xmlns="http://www.w3.org/2000/svg">
+      <path fill="#f0d2ce" fill-opacity="1" d="M0,64L60,74.7C120,85,240,107,360,122.7C480,139,600,149,720,138.7C840,128,960,96,1080,85.3C1200,75,1320,85,1380,90.7L1440,96L1440,0L0,0Z"></path>
+    </svg>
+  </div>
+
+  <div class="container position-relative" style="z-index: 1;">
+    <div class="row align-items-center">
+      <div class="col-md-6 order-md-2 text-center" data-aos="fade-left">
+        <img src="mousturizer_merah-removebg-preview.png" alt="Anti-Wrinkle Moisturizer" class="img-fluid floating" style="max-width: 300px;" />
+      </div>
+      <div class="col-md-6 order-md-1" data-aos="fade-right">
+        <h2 class="fw-bold" style="color: #a2655d;">Anti-Wrinkle Moisturizer</h2>
+        <p class="fw-bold" style="color: black;">Dengan kandungan Peptides dan Collagen, moisturizer ini membantu mengurangi garis halus dan menjaga elastisitas kulit.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="py-5" style="background-color: white; position: relative; overflow: hidden;">
+  <!-- Gelombang atas -->
+  <div style="position: absolute; top: 0; left: 0; width: 100%; z-index: 0;">
+    <svg viewBox="0 0 1440 150" xmlns="http://www.w3.org/2000/svg">
+      <path fill="#cde7e1" fill-opacity="1" d="M0,64L60,74.7C120,85,240,107,360,122.7C480,139,600,149,720,138.7C840,128,960,96,1080,85.3C1200,75,1320,85,1380,90.7L1440,96L1440,0L0,0Z"></path>
+    </svg>
+  </div>
+
+  <div class="container position-relative" style="z-index: 1;">
+    <div class="row align-items-center">
+      <div class="col-md-6 text-center" data-aos="fade-right">
+        <img src="mousturizer_abu-removebg-preview.png" alt="Hydrating Moisturizer" class="img-fluid floating" style="max-width: 300px;" />
+      </div>
+      <div class="col-md-6" data-aos="fade-left">
+        <h2 class="fw-bold" style="color: #4c8782;">Hydrating Moisturizer</h2>
+        <p class="fw-bold" style="color: black;">Diperkaya Hyaluronic Acid dan Aloe Vera, menjaga kelembapan kulit hingga 24 jam tanpa terasa lengket.</p>
+      </div>
+    </div>
+  </div>
+</section>
